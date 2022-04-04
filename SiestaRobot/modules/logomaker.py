@@ -114,7 +114,7 @@ async def logo_gen(event):
         await tbot.send_file(
             event.chat_id,
             file=flnme,
-            caption="Logo by [Siesta Robot](https://t.me/Siestaxbot)",
+            caption="Logo by [Itsuka Robot](https://t.me/ituskamanage_bot)",
             force_document=False,
         )
         os.remove(flnme)
@@ -197,7 +197,7 @@ async def logo_(event):
         await tbot.send_file(
             event.chat_id,
             file=flnme,
-            caption="Logo by [Siesta Robot](https://t.me/Siestaxbot)",
+            caption="Logo by [Itsuka Robot](https://t.me/itsukamanage_bot)",
             force_document=False,
         )
         os.remove(flnme)
