@@ -10,7 +10,7 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 # PM Text
 pm_start_text: |
   *Hai sayang, {} ❤️*
-  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6f82ac5fe086c5199e075.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Waktu Operasi Server :* `{}`
@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
 group_start_text: |
-  *👋🏻 Hai Sayang, aku Robot Siesta!* 
+  *👋🏻 Hai Sayang, aku Robot Itsuka!* 
   
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ✺ Hai Sayang saya *Siesta Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
+  ✺ Hai Sayang saya *Itsuka Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
 
   ✪ Saya dapat membatasi pengguna.
   ✪ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -34,12 +34,12 @@ pm_about_text: |
   ✪ Saya memiliki sistem pencatatan, daftar hitam, dan bahkan balasan yang telah ditentukan sebelumnya untuk kata kunci tertentu.
   ✪ Saya memeriksa izin admin sebelum menjalankan perintah apa pun dan hal lainnya
 
-  _Siesta dilisensikan di bawah GNU General Public License v3.0_
-  Klik tombol di bawah untuk mendapatkan bantuan dasar untuk Robot Siesta.
+  _Itsuka dilisensikan di bawah GNU General Public License v3.0_
+  Klik tombol di bawah untuk mendapatkan bantuan dasar untuk Robot Itsuka.
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
-  Selamat, Robot Siesta sekarang siap untuk mengelola grup Anda.
+  Selamat, Robot Itsuka sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -54,13 +54,13 @@ pm_about_notes_text: |
   ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Siesta ✺*
+  *✺ Obrolan dukungan Robot Itsuka ✺*
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
 pm_about_credit_text: |
-  *✺ Credits for Siesta ✺*
+  *✺ Credits for Itsuka ✺*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Siesta
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Itsuka
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
 pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
@@ -89,7 +89,7 @@ notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "Mendapatkan bantuan"
 back_button: "Kembali"
-about_button: "Tentang Siesta Robot"
+about_button: "Tentang Itsuka Robot"
 inline_button: "Mencoba inline!​​"
 
 # MODULES
@@ -248,7 +248,7 @@ blacklist_help: |
 chatbot_help: |
     ──「 Bot Obrolan AI 」──
 
-    Siesta AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
+    Itsuka AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
 
     ❂ /chatbot [ON/OFF]: Mengaktifkan dan menonaktifkan mode AI Chat.
     ❂ /chatbot EN : Mengaktifkan chatbot berbahasa Inggris saja.
@@ -344,7 +344,7 @@ fsub_feds_help: |
 
     *Paksa Berlangganan:*
 
-    Siesta dapat membisukan anggota yang tidak berlangganan saluran Anda sampai mereka berlangganan saat diaktifkan, saya akan membisukan anggota yang tidak berlangganan dan menunjukkan kepada mereka tombol suarakan. Ketika mereka menekan tombol, saya akan membunyikan mereka
+    Itsuka dapat membisukan anggota yang tidak berlangganan saluran Anda sampai mereka berlangganan saat diaktifkan, saya akan membisukan anggota yang tidak berlangganan dan menunjukkan kepada mereka tombol suarakan. Ketika mereka menekan tombol, saya akan membunyikan mereka
 
     *Pengaturan* *:* *Hanya pencipta*
     ❂ Tambahkan saya di grup Anda sebagai admin
@@ -663,9 +663,9 @@ search_help: |
     ❂ /github <username>*:* Dapatkan informasi tentang pengguna GitHub.
     ❂ /country <nama negara>*:* Mengumpulkan info tentang negara tertentu
     ❂ /imdb <Nama film>*:* Dapatkan info lengkap tentang film dengan imdb.com
-    ❂ Siesta <query>*:* Siesta menjawab pertanyaan
+    ❂ Itsuka <query>*:* Itsuka menjawab pertanyaan
 
-    💡 Contoh : `Siesta di mana Jepang?`
+    💡 Contoh : `Itsuka di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 
